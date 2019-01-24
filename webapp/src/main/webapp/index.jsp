@@ -3,11 +3,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Hello, Welcome for the Devops Learning Session!</title>
+        <title>Devops Training with Ashok!</title>
     </head>
     <body>
-        <h1>Today's Topi is all About CI and we also make our hands dirty with Jenkins!</h1>
+        <h1>Today's Topic is all about Continuous Integration with Jenkins</h1>
         
-        GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
+
     </body>
 </html>
