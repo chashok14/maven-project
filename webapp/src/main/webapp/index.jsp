@@ -5,6 +5,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Devops Training with Ashok!</title>
     </head>
+	<IMG SRC="/webquotes10/images/home_header.jpg"> 
     <body>
         <h1>Today's Topic is all about Continuous Integration with Jenkins</h1>
         
