@@ -7,7 +7,7 @@
     </head>
 	<IMG SRC="Kumar.jpg"> 
     <body>
-        <h1>Welcome to "Learn Devops with Ashok"</h1>
+        <h1>Jenkins</h1>
         
 
     </body>
