@@ -7,7 +7,7 @@
     </head>
 	<IMG SRC="Kumar.jpg"> 
     <body>
-        <h1>Today's Topic is all about Continuous Deployment with Ansible</h1>
+        <h1>Welcome to "Learn Devops with Ashok"</h1>
         
 
     </body>
