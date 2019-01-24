@@ -7,7 +7,7 @@
     </head>
 	<IMG SRC="Kumar.jpg"> 
     <body>
-        <h1>Today's Topic is all about Continuous Integration with Jenkins</h1>
+        <h1>Today's Topic is all about Continuous Deployment with Jenkins</h1>
         
 
     </body>
