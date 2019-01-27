@@ -6,7 +6,7 @@
         <title>Jenkins Tutorial</title>
     </head>
     <body>
-        <h1>The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.</h1>
+        <h2>The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.</h2>
         
 
     </body>
